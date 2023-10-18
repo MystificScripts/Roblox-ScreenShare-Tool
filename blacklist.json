@@ -1,0 +1,18 @@
+{
+    "blacklisted_words": [
+      "Fluxus",
+      "VALYSE LAUNCHER.EXE",
+      "SYNAPSE LAUNCHER.EXE",
+      "SCRIPTWARE.EXE",
+      "VALYSE.EXE",
+      "ELECTRON.EXE",
+      "FLUXUS V7.EXE"
+    ],
+    "paths": [
+      "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\MuiCache",
+      "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache",
+      "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Compatibility Assistant\\Persisted",
+      "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Compatibility Assistant\\Store"
+    ]
+  }
+  

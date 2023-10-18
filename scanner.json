@@ -1,0 +1,34 @@
+{
+    "folders": {
+        "keywords": ["autoexec", "saved_tabs"]
+    },
+    "exes": {
+        "keywords": ["Krnl", "Valyse", "Fluxus", "Celistal", "Electron", "Synapse Launcher", "lua-decomp"]
+    },
+    "dlls": {
+        "search_folders": [
+            "~/Desktop",
+            "~/Downloads",
+            "~/Documents"
+        ],
+        "keywords": ["SynapseInjector", "FluxusAuth", "ScriptWareAuth", "ScriptWareInjector", "ValyseAPI", "FluxusAuth"]
+    },
+    "roaming_search": {
+        "folders": [
+            "ValyseData",
+            "ScriptWareLinkedScripts",
+            "ScriptWareScripts"
+        ]
+    },
+    "hidden_folders": [
+        "Valyse",
+        "ryos.lol",
+        "ScriptWare_Software_LTD"
+    ],
+    "luafiles": [
+        "aimbot", "infjump", "fly", "infyield", "wallhack", "noclip",
+        "darkdex", "dex", "speed", "speedhack", "infinite jump",
+        "uwpbypass", "uwp", "flyscript", "AntiLock"
+    ],
+    "bin_files": ["savedtabws.bin", "sessiontoken.bin"]
+}
