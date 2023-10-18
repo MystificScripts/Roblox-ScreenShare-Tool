@@ -1,10 +1,7 @@
 import os, re, json, time,sys
 from colorama import Fore, Style, init
 import ctypes
-
 init(autoreset=True)
-
-# Check if the script is running with administrative privileges
 def is_admin():
     try:
         return ctypes.windll.shell32.IsUserAnAdmin()
